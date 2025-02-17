@@ -1,5 +1,5 @@
 name: launch_review_latest
-description: "A new Flutter plugin project."
+description: A Flutter plugin to assist in leaving user reviews/ratings in Google Play Store and Apple App Store.
 version: 1.0.0
 homepage: https://github.com/Mohamed-Nagdy/launch_review_latest
 
