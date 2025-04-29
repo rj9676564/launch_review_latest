@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 
-class LaunchReviewLatest {
+class LaunchReview {
   static const MethodChannel _channel = MethodChannel('launch_review');
 
   /// Note: It will not work with the iOS Simulator.
