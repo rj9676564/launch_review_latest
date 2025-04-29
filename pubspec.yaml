@@ -1,10 +1,10 @@
-name: launch_review_latest
+name: launch_review
 description: A Flutter plugin to assist in leaving user reviews/ratings in Google Play Store and Apple App Store.
 version: 1.0.0
 homepage: https://github.com/Mohamed-Nagdy/launch_review_latest
 
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.5.0
   flutter: '>=3.3.0'
 
 dependencies:
